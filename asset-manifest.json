@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gifSearcher/static/css/main.0f2ac81d.chunk.css",
+    "main.js": "/react-gifSearcher/static/js/main.f105dcbc.chunk.js",
+    "main.js.map": "/react-gifSearcher/static/js/main.f105dcbc.chunk.js.map",
+    "runtime-main.js": "/react-gifSearcher/static/js/runtime-main.3656da4f.js",
+    "runtime-main.js.map": "/react-gifSearcher/static/js/runtime-main.3656da4f.js.map",
+    "static/js/2.b5d0f97d.chunk.js": "/react-gifSearcher/static/js/2.b5d0f97d.chunk.js",
+    "static/js/2.b5d0f97d.chunk.js.map": "/react-gifSearcher/static/js/2.b5d0f97d.chunk.js.map",
+    "static/js/3.4b9410e9.chunk.js": "/react-gifSearcher/static/js/3.4b9410e9.chunk.js",
+    "static/js/3.4b9410e9.chunk.js.map": "/react-gifSearcher/static/js/3.4b9410e9.chunk.js.map",
+    "index.html": "/react-gifSearcher/index.html",
+    "static/css/main.0f2ac81d.chunk.css.map": "/react-gifSearcher/static/css/main.0f2ac81d.chunk.css.map",
+    "static/js/2.b5d0f97d.chunk.js.LICENSE.txt": "/react-gifSearcher/static/js/2.b5d0f97d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3656da4f.js",
+    "static/js/2.b5d0f97d.chunk.js",
+    "static/css/main.0f2ac81d.chunk.css",
+    "static/js/main.f105dcbc.chunk.js"
+  ]
+}
